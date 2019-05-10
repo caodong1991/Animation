@@ -1,6 +1,6 @@
 //
-//  AnimationUITests.m
-//  AnimationUITests
+//  Core_AnimationUITests.m
+//  Core AnimationUITests
 //
 //  Created by CaoDong on 2019/5/10.
 //  Copyright © 2019 CaoDong. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface AnimationUITests : XCTestCase
+@interface Core_AnimationUITests : XCTestCase
 
 @end
 
-@implementation AnimationUITests
+@implementation Core_AnimationUITests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
