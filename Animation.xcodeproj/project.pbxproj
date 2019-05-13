@@ -8,40 +8,37 @@
 
 /* Begin PBXBuildFile section */
 		C0FE546F2285159400CFBC94 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE546E2285159400CFBC94 /* AppDelegate.m */; };
-		C0FE54722285159400CFBC94 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54712285159400CFBC94 /* ViewController.m */; };
 		C0FE54752285159400CFBC94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54732285159400CFBC94 /* Main.storyboard */; };
 		C0FE54772285159400CFBC94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54762285159400CFBC94 /* Assets.xcassets */; };
 		C0FE547A2285159400CFBC94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54782285159400CFBC94 /* LaunchScreen.storyboard */; };
 		C0FE547D2285159400CFBC94 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE547C2285159400CFBC94 /* main.m */; };
-		C0FE54A52285217800CFBC94 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54A42285217800CFBC94 /* AppDelegate.m */; };
-		C0FE54A82285217800CFBC94 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54A72285217800CFBC94 /* ViewController.m */; };
-		C0FE54AB2285217800CFBC94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54A92285217800CFBC94 /* Main.storyboard */; };
-		C0FE54AD2285217900CFBC94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54AC2285217900CFBC94 /* Assets.xcassets */; };
-		C0FE54B02285217900CFBC94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54AE2285217900CFBC94 /* LaunchScreen.storyboard */; };
-		C0FE54B32285217900CFBC94 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54B22285217900CFBC94 /* main.m */; };
+		C0FE54BF228527F600CFBC94 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54BE228527F600CFBC94 /* AppDelegate.m */; };
+		C0FE54C5228527F700CFBC94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54C3228527F700CFBC94 /* Main.storyboard */; };
+		C0FE54C7228527F700CFBC94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54C6228527F700CFBC94 /* Assets.xcassets */; };
+		C0FE54CA228527F700CFBC94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FE54C8228527F700CFBC94 /* LaunchScreen.storyboard */; };
+		C0FE54CD228527F700CFBC94 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54CC228527F700CFBC94 /* main.m */; };
+		C0FE54D922852C0800CFBC94 /* CDMainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0FE54D822852C0800CFBC94 /* CDMainTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C0FE546B2285159400CFBC94 /* Core Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Core Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0FE546D2285159400CFBC94 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C0FE546E2285159400CFBC94 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C0FE54702285159400CFBC94 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C0FE54712285159400CFBC94 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C0FE54742285159400CFBC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C0FE54762285159400CFBC94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0FE54792285159400CFBC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0FE547B2285159400CFBC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C0FE547C2285159400CFBC94 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C0FE54A12285217800CFBC94 /* GuideAnimationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuideAnimationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C0FE54A32285217800CFBC94 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		C0FE54A42285217800CFBC94 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		C0FE54A62285217800CFBC94 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		C0FE54A72285217800CFBC94 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		C0FE54AA2285217800CFBC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C0FE54AC2285217900CFBC94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C0FE54AF2285217900CFBC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		C0FE54B12285217900CFBC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C0FE54B22285217900CFBC94 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C0FE54BB228527F600CFBC94 /* BezierSpline.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BezierSpline.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C0FE54BD228527F600CFBC94 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C0FE54BE228527F600CFBC94 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C0FE54C4228527F700CFBC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C0FE54C6228527F700CFBC94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C0FE54C9228527F700CFBC94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C0FE54CB228527F700CFBC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0FE54CC228527F700CFBC94 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C0FE54D722852C0800CFBC94 /* CDMainTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CDMainTableViewController.h; sourceTree = "<group>"; };
+		C0FE54D822852C0800CFBC94 /* CDMainTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CDMainTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +49,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C0FE549E2285217800CFBC94 /* Frameworks */ = {
+		C0FE54B8228527F600CFBC94 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -66,7 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				C0FE546C2285159400CFBC94 /* Core Animation */,
-				C0FE54A22285217800CFBC94 /* GuideAnimationDemo */,
+				C0FE54BC228527F600CFBC94 /* BezierSpline */,
 				C0FE53EB2285149300CFBC94 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -75,7 +72,7 @@
 			isa = PBXGroup;
 			children = (
 				C0FE546B2285159400CFBC94 /* Core Animation.app */,
-				C0FE54A12285217800CFBC94 /* GuideAnimationDemo.app */,
+				C0FE54BB228527F600CFBC94 /* BezierSpline.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -83,33 +80,119 @@
 		C0FE546C2285159400CFBC94 /* Core Animation */ = {
 			isa = PBXGroup;
 			children = (
-				C0FE546D2285159400CFBC94 /* AppDelegate.h */,
-				C0FE546E2285159400CFBC94 /* AppDelegate.m */,
-				C0FE54702285159400CFBC94 /* ViewController.h */,
-				C0FE54712285159400CFBC94 /* ViewController.m */,
-				C0FE54732285159400CFBC94 /* Main.storyboard */,
-				C0FE54762285159400CFBC94 /* Assets.xcassets */,
-				C0FE54782285159400CFBC94 /* LaunchScreen.storyboard */,
-				C0FE547B2285159400CFBC94 /* Info.plist */,
-				C0FE547C2285159400CFBC94 /* main.m */,
+				C0FE54DE22854EDF00CFBC94 /* Main */,
+				C0FE54DD22854EDC00CFBC94 /* Config */,
+				C0FE54DC22854ED700CFBC94 /* Resources */,
+				C0FE54DB22854ED300CFBC94 /* StoryBoard */,
+				C0FE54DA22854ED000CFBC94 /* AppDelegate */,
 			);
 			path = "Core Animation";
 			sourceTree = "<group>";
 		};
-		C0FE54A22285217800CFBC94 /* GuideAnimationDemo */ = {
+		C0FE54BC228527F600CFBC94 /* BezierSpline */ = {
 			isa = PBXGroup;
 			children = (
-				C0FE54A32285217800CFBC94 /* AppDelegate.h */,
-				C0FE54A42285217800CFBC94 /* AppDelegate.m */,
-				C0FE54A62285217800CFBC94 /* ViewController.h */,
-				C0FE54A72285217800CFBC94 /* ViewController.m */,
-				C0FE54A92285217800CFBC94 /* Main.storyboard */,
-				C0FE54AC2285217900CFBC94 /* Assets.xcassets */,
-				C0FE54AE2285217900CFBC94 /* LaunchScreen.storyboard */,
-				C0FE54B12285217900CFBC94 /* Info.plist */,
-				C0FE54B22285217900CFBC94 /* main.m */,
+				C0FE54D522852AEB00CFBC94 /* Main */,
+				C0FE54D422852A9400CFBC94 /* Config */,
+				C0FE54D322852A9100CFBC94 /* Resources */,
+				C0FE54D222852A7F00CFBC94 /* StoryBoard */,
+				C0FE54D122852A6C00CFBC94 /* AppDelegate */,
 			);
-			path = GuideAnimationDemo;
+			path = BezierSpline;
+			sourceTree = "<group>";
+		};
+		C0FE54D122852A6C00CFBC94 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54CC228527F700CFBC94 /* main.m */,
+				C0FE54BD228527F600CFBC94 /* AppDelegate.h */,
+				C0FE54BE228527F600CFBC94 /* AppDelegate.m */,
+			);
+			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		C0FE54D222852A7F00CFBC94 /* StoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54C3228527F700CFBC94 /* Main.storyboard */,
+				C0FE54C8228527F700CFBC94 /* LaunchScreen.storyboard */,
+			);
+			path = StoryBoard;
+			sourceTree = "<group>";
+		};
+		C0FE54D322852A9100CFBC94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54C6228527F700CFBC94 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C0FE54D422852A9400CFBC94 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54CB228527F700CFBC94 /* Info.plist */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		C0FE54D522852AEB00CFBC94 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54D622852AF500CFBC94 /* Controller */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		C0FE54D622852AF500CFBC94 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54D722852C0800CFBC94 /* CDMainTableViewController.h */,
+				C0FE54D822852C0800CFBC94 /* CDMainTableViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		C0FE54DA22854ED000CFBC94 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE547C2285159400CFBC94 /* main.m */,
+				C0FE546D2285159400CFBC94 /* AppDelegate.h */,
+				C0FE546E2285159400CFBC94 /* AppDelegate.m */,
+			);
+			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		C0FE54DB22854ED300CFBC94 /* StoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54732285159400CFBC94 /* Main.storyboard */,
+				C0FE54782285159400CFBC94 /* LaunchScreen.storyboard */,
+			);
+			path = StoryBoard;
+			sourceTree = "<group>";
+		};
+		C0FE54DC22854ED700CFBC94 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE54762285159400CFBC94 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C0FE54DD22854EDC00CFBC94 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				C0FE547B2285159400CFBC94 /* Info.plist */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		C0FE54DE22854EDF00CFBC94 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,21 +215,21 @@
 			productReference = C0FE546B2285159400CFBC94 /* Core Animation.app */;
 			productType = "com.apple.product-type.application";
 		};
-		C0FE54A02285217800CFBC94 /* GuideAnimationDemo */ = {
+		C0FE54BA228527F600CFBC94 /* BezierSpline */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C0FE54B42285217900CFBC94 /* Build configuration list for PBXNativeTarget "GuideAnimationDemo" */;
+			buildConfigurationList = C0FE54CE228527F700CFBC94 /* Build configuration list for PBXNativeTarget "BezierSpline" */;
 			buildPhases = (
-				C0FE549D2285217800CFBC94 /* Sources */,
-				C0FE549E2285217800CFBC94 /* Frameworks */,
-				C0FE549F2285217800CFBC94 /* Resources */,
+				C0FE54B7228527F600CFBC94 /* Sources */,
+				C0FE54B8228527F600CFBC94 /* Frameworks */,
+				C0FE54B9228527F600CFBC94 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = GuideAnimationDemo;
-			productName = GuideAnimationDemo;
-			productReference = C0FE54A12285217800CFBC94 /* GuideAnimationDemo.app */;
+			name = BezierSpline;
+			productName = BezierSpline;
+			productReference = C0FE54BB228527F600CFBC94 /* BezierSpline.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -155,13 +238,14 @@
 		C0FE53E22285149300CFBC94 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = CD;
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = CaoDong;
 				TargetAttributes = {
 					C0FE546A2285159400CFBC94 = {
 						CreatedOnToolsVersion = 10.2.1;
 					};
-					C0FE54A02285217800CFBC94 = {
+					C0FE54BA228527F600CFBC94 = {
 						CreatedOnToolsVersion = 10.2.1;
 					};
 				};
@@ -180,7 +264,7 @@
 			projectRoot = "";
 			targets = (
 				C0FE546A2285159400CFBC94 /* Core Animation */,
-				C0FE54A02285217800CFBC94 /* GuideAnimationDemo */,
+				C0FE54BA228527F600CFBC94 /* BezierSpline */,
 			);
 		};
 /* End PBXProject section */
@@ -196,13 +280,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C0FE549F2285217800CFBC94 /* Resources */ = {
+		C0FE54B9228527F600CFBC94 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C0FE54B02285217900CFBC94 /* LaunchScreen.storyboard in Resources */,
-				C0FE54AD2285217900CFBC94 /* Assets.xcassets in Resources */,
-				C0FE54AB2285217800CFBC94 /* Main.storyboard in Resources */,
+				C0FE54CA228527F700CFBC94 /* LaunchScreen.storyboard in Resources */,
+				C0FE54C7228527F700CFBC94 /* Assets.xcassets in Resources */,
+				C0FE54C5228527F700CFBC94 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,19 +297,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C0FE54722285159400CFBC94 /* ViewController.m in Sources */,
 				C0FE547D2285159400CFBC94 /* main.m in Sources */,
 				C0FE546F2285159400CFBC94 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C0FE549D2285217800CFBC94 /* Sources */ = {
+		C0FE54B7228527F600CFBC94 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C0FE54A82285217800CFBC94 /* ViewController.m in Sources */,
-				C0FE54B32285217900CFBC94 /* main.m in Sources */,
-				C0FE54A52285217800CFBC94 /* AppDelegate.m in Sources */,
+				C0FE54CD228527F700CFBC94 /* main.m in Sources */,
+				C0FE54D922852C0800CFBC94 /* CDMainTableViewController.m in Sources */,
+				C0FE54BF228527F600CFBC94 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,18 +331,18 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
-		C0FE54A92285217800CFBC94 /* Main.storyboard */ = {
+		C0FE54C3228527F700CFBC94 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C0FE54AA2285217800CFBC94 /* Base */,
+				C0FE54C4228527F700CFBC94 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		C0FE54AE2285217900CFBC94 /* LaunchScreen.storyboard */ = {
+		C0FE54C8228527F700CFBC94 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				C0FE54AF2285217900CFBC94 /* Base */,
+				C0FE54C9228527F700CFBC94 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -385,7 +468,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5HYUBP6TBL;
-				INFOPLIST_FILE = "Core Animation/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Core Animation/Config/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -402,7 +485,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5HYUBP6TBL;
-				INFOPLIST_FILE = "Core Animation/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Core Animation/Config/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -413,35 +496,35 @@
 			};
 			name = Release;
 		};
-		C0FE54B52285217900CFBC94 /* Debug */ = {
+		C0FE54CF228527F700CFBC94 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5HYUBP6TBL;
-				INFOPLIST_FILE = GuideAnimationDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/BezierSpline/Config/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.caodong.GuideAnimationDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = me.caodong.BezierSpline;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		C0FE54B62285217900CFBC94 /* Release */ = {
+		C0FE54D0228527F700CFBC94 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5HYUBP6TBL;
-				INFOPLIST_FILE = GuideAnimationDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/BezierSpline/Config/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = me.caodong.GuideAnimationDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = me.caodong.BezierSpline;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -468,11 +551,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C0FE54B42285217900CFBC94 /* Build configuration list for PBXNativeTarget "GuideAnimationDemo" */ = {
+		C0FE54CE228527F700CFBC94 /* Build configuration list for PBXNativeTarget "BezierSpline" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C0FE54B52285217900CFBC94 /* Debug */,
-				C0FE54B62285217900CFBC94 /* Release */,
+				C0FE54CF228527F700CFBC94 /* Debug */,
+				C0FE54D0228527F700CFBC94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
